@@ -23,9 +23,8 @@
 ---
 
 ## 📌 Featured Projects
-- 🛰 [**Data fusion war game Classifier**](https://github.com/username/sigint-classifier) → Tensorflow + Numpy + pytorch 
-- 🌦 [**Weather Prediction App**](https://github.com/username/weather-app) → FastAPI + Vue + MySQL  
-- 🖥 [**Portfolio Website**](https://murigu.com) → Vue 3 + TailwindCSS + vite 
+
+- 🖥 [**Portfolio Website**](https://murigudev.vercel.app) → Vue 3 + TailwindCSS + vite 
 
 ---
 
@@ -42,10 +41,10 @@
   <a href="https://www.linkedin.com/in/charles-gitonga-915bab360" target="_blank" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
-  <a href="https://github.com/adrianmdevs">
+  <a href="https://murigudev.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-000?logo=firefox&logoColor=white&style=for-the-badge" />
   </a>
-  <a href="mailto:gitongacharlie01@gmail.com" target="_blank">
+  <a href="mailto:murigucharles3@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
   </a>
 </p>
