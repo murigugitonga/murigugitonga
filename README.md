@@ -1,7 +1,3 @@
-<!-- Banner / Header -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:202122,100:0072ff&height=180&section=header&text=Murigu%20Gitonga&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36" />
-</p>
 
 # 👋 Hi! Welcome to my Github account.
 
@@ -46,11 +42,5 @@
   <a href="mailto:murigucharles3@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
   </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:202122,100:00c6ff&height=120&section=footer" />
 </p>
 
