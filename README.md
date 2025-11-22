@@ -1,8 +1,8 @@
 
 # 👋 Hi! Welcome to my Github account.
 
-🚀 Software Engineer | 🎯 Web & PWA Development |
-💻  General Programming
+ Software Engineer | Fullstack Web & PWA Development |
+ AI integration | Programming for fun
 
 ---
 
