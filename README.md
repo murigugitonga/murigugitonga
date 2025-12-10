@@ -22,12 +22,6 @@
 
 - 🖥 [**Portfolio Website**](https://murigudev.vercel.app) → Vue 3 + TailwindCSS + vite 
 
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianmdevs&layout=compact&theme=radical" height="180" />
-</p>
 
 ---
 
