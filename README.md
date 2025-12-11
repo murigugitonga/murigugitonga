@@ -1,8 +1,7 @@
 
 # 👋 Hi! Welcome to my Github account.
 
- Software Engineer | Fullstack Web & PWA Development |
- AI integration | Programming for fun
+I like building things. Sometimes I build things to solve problems, sometimes (most of the times) I build for the pure thrill of coming up with something from nothing.
 
 ---
 
@@ -18,9 +17,10 @@
 
 ---
 
-## 📌 Featured Projects
+## 📌 Main Websites.
 
-- 🖥 [**Portfolio Website**](https://murigudev.vercel.app) → Vue 3 + TailwindCSS + vite 
+- [**Web dev Portfolio Website**](https://murigudev.vercel.app) → Vue 3 + tailwind + vite
+- [**Official Website**](https://murigugitonga.github.io) -> React + Tailwind + vite  
 
 
 ---
