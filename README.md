@@ -5,7 +5,7 @@ I like building things. Sometimes I build things to solve problems, sometimes (m
 
 ---
 
-## 🔧 Tech Stack
+## Tech Stack
 <p align="center">
   <img src="https://img.shields.io/badge/Frontend-Vue.js-42b883?logo=vue.js&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Styling-TailwindCSS-38b2ac?logo=tailwind-css&logoColor=white&style=for-the-badge" />
@@ -17,15 +17,15 @@ I like building things. Sometimes I build things to solve problems, sometimes (m
 
 ---
 
-## 📌 Main Websites.
+## My Websites.
 
-- [**Web dev Portfolio Website**](https://murigudev.vercel.app) → Vue 3 + tailwind + vite
-- [**Official Website**](https://murigugitonga.github.io) -> React + Tailwind + vite  
+- [**Web dev portfolio website**](https://murigudev.vercel.app) → Vue 3 + tailwind + vite
+- [**Official website**](https://murigugitonga.github.io) -> React + Tailwind + vite  
 
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/charles-gitonga-915bab360" target="_blank" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" />
