@@ -7,12 +7,13 @@ I like building things. Sometimes I build things to solve problems, sometimes (m
 
 ## Tech Stack
 <p align="center">
-  <img src="https://img.shields.io/badge/Frontend-Vue.js-42b883?logo=vue.js&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Styling-TailwindCSS-38b2ac?logo=tailwind-css&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Frontend-Vue.js-42b883?logo=vue.js&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Frontend-React.js-42b883?logo=react.js&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Backend-Laravel-fb503b?logo=laravel&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/API-FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge" />
-  
-  <img src="https://img.shields.io/badge/Database-MySQL-4479a1?logo=mysql&logoColor=white&style=for-the-badge" />
+   <img src="https://img.shields.io/badge/Database-MySQL-4479a1?logo=mysql&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Database-MongoDB-4479a1?logo=mongodb&logoColor=white&style=for-the-badge" />
 </p>
 
 ---
@@ -34,7 +35,7 @@ I like building things. Sometimes I build things to solve problems, sometimes (m
     <img src="https://img.shields.io/badge/Portfolio-000?logo=firefox&logoColor=white&style=for-the-badge" />
   </a>
   <a href="mailto:murigucharles3@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
   </a>
 </p>
 
