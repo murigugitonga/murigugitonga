@@ -1,9 +1,7 @@
 
-# 👋 Hi! Welcome to my Github account.
+# 👋 Hola! Welcome to my Github account.
 
 I like building things. Sometimes I build things to solve problems, sometimes (most of the times) I build for the pure thrill of coming up with something from nothing.
-
----
 
 ## Tech Stack
 <p align="center">
@@ -16,15 +14,12 @@ I like building things. Sometimes I build things to solve problems, sometimes (m
   <img src="https://img.shields.io/badge/Database-MongoDB-4479a1?logo=mongodb&logoColor=white&style=for-the-badge" />
 </p>
 
----
-
 ## My Websites.
 
 - [**Web dev portfolio website**](https://murigudev.vercel.app) → Vue 3 + Tailwind + Vite
-- [**Official website**](https://murigugitonga.github.io) -> React + Tailwind + Vite  
+- [**Official website**](https://murigugitonga.github.io) -> React + Tailwind + Vite
+- [**Simple Portfolio**](https://murigu.gitlab.io) -> HTML + Inline CSS. 
 
-
----
 
 ## Connect With Me
 <p align="center">
