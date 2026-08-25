@@ -16,8 +16,9 @@ I like building things. Sometimes I build things to solve problems, sometimes (m
 
 ## My Websites.
 
-- [**Web dev portfolio website**](https://murigudev.vercel.app) → Vue 3 + Tailwind + Vite
 - [**Official website**](https://murigugitonga.github.io) -> React + Tailwind + Vite
+- [**AI infrastructure website**](https://murigu.pages.dev) → React + Typescript + TailwindCSS
+
 
 ## Connect With Me
 <p align="center">
